@@ -36,7 +36,7 @@ faang-stock-analysis/
 
 ##  Author
 **Siddharth Kumar**
-- [LinkedIn](https://www.linkedin.com/in/siddharth-kumar)
+- [LinkedIn](https://www.linkedin.com/in/siddharth-kumar-0938ab245/)
 - Email: Siddharthk1500@gmail.com
 
 *This project was created to showcase data analysis skills using Python and financial data.*
